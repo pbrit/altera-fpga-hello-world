@@ -1,0 +1,12 @@
+*.bak
+*.sof
+*.jic
+*.tis_db_list.ddb 
+*.pti_db_list.ddb 
+db
+output_files
+incremental_db
+simulation
+greybox_tmp
+
+
